@@ -13,8 +13,11 @@ energy management.
 
 ## Expected Outcome:
 ● Development of an accurate time series forecasting model for energy consumption.
+
 ● Optimization of energy distribution and resource allocation in smart grid systems.
+
 ● Reduction in operational costs and improved grid reliability.
+
 ● Enhanced sustainability through efficient energy management practices.
 
 ## Conclusion:
